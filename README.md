@@ -1,1 +1,12 @@
 # nageshp21
+- HTML - structure
+- - css - styling
+- java -backend logic
+- git - branching and merging workflow
+- #project structure
+- project-folder/
+- index.html
+- style.css
+- java.js
+- readme.md
+- 
